@@ -6,7 +6,7 @@
 // Formula: F = C * 9/5 + 32
 let temperatureCelsius = 25;
 // Your code here
-
+console.log("This is a test file.");
 // Display the result
 // console.log("Temperature conversion: ??? °C = ??? °F");
 
