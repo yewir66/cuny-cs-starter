@@ -39,7 +39,7 @@ console.log(m+ " miles is " +km+" killometers ")
 // - Recipe converter (cups to grams)
 // - Time converter (minutes to hours:minutes format)
 // - Grade calculator (percentage to letter grade)
-let percentage = 9;
+let percentage = 10;
 let grade;
 if (percentage >= 90) {
 
