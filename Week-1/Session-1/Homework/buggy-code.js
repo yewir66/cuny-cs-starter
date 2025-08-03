@@ -2,7 +2,7 @@
 // This file contains several errors. Find and fix them all!
 
 // Error 1: Variable declaration issue
-Let userName = "Student;
+let userName = "Student";
 
 // Error 2: Data type confusion
 let age = "25";
